@@ -1,5 +1,27 @@
 # 💫 About Me:
-🌱 I’m currently learning business analytics in Sunway University.<br><br><br>
+🎓 Educational Journey:<br>
+Pursuing a Master of Business Analytics at Sunway University.<br>
+Initially studied hospitality in Australia, bringing a unique blend of analytical skills and a decade of hospitality experience.<br>
+
+📊 Professional Background:<br>
+Over 5 years of hands-on experience in data analysis.<br>
+Currently focusing on honing skills in business analytics.<br>
+
+🚀 Continuous Learning:<br>
+Committed to continuous self-improvement, transitioning from hospitality to the analytics field.<br>
+Actively pursuing a PowerBI certification to enhance data visualization skills.<br>
+
+🌱 Learning Paradigm:<br>
+Embracing a learning mindset to bridge the gap between diverse experiences.<br>
+Striving for efficiency and productivity in every task.<br>
+
+🔍 Aspirations:<br>
+Aiming to leverage analytical skills for impactful insights and decision-making.<br>
+Passionate about the intersection of technology and business analytics.<br>
+
+🌟 GitHub Journey:<br>
+Documenting my progress, projects, and insights on GitHub.<br>
+Join me on this journey of growth and exploration in the data analytics realm!<br>
 
 
 ## 🌐 Socials:
