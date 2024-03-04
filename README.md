@@ -4,7 +4,7 @@ Pursuing a Master of Business Analytics at Sunway University.<br>
 Initially studied hospitality in Australia, bringing a unique blend of analytical skills and a decade of hospitality experience.<br>
 
 📊 Professional Background:<br>
-Over 5 years of hands-on experience in data analysis.<br>
+A decade of hands-on experience in hospitalty.<br>
 Currently focusing on honing skills in business analytics.<br>
 
 🚀 Continuous Learning:<br>
